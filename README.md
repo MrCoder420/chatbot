@@ -1,6 +1,8 @@
+![Alt text](home_page.png)
+
 ```markdown
 # MY GPT
-![Alt text](home_page.png)
+
 
 A responsive and elegant chatbot interface built with **vanilla HTML, CSS, and JavaScript** that uses the [OpenRouter](https://openrouter.ai/) API to provide AI chat functionality. This project was migrated from a React-based version to a fully static implementation for simplicity and portability.
 
